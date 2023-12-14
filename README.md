@@ -1,39 +1,32 @@
-# 「12月13日」2023年最新高速10.3M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
+# 「12月14日」2023年最新高速8.3M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
 关注本站TG频道「[免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)」，第一时间获得新鲜节点。
 
-本次更新共计50个可用节点，最高速度10.3M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
+本次更新共计50个可用节点，最高速度8.3M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
 
 ```
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9B%B4%E5%A4%9A%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%3Ahttps%3A%2F%2F560888.xyz
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download2hkt.windowsupdatea.com:443?sni=glc-hkt2.windowsupdatea.com#香港+电讯盈科有限公司
-trojan://telegram-id-directvpn@34.241.106.165:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#爱尔兰+都柏林Amazon数据中心
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.37:4444#%E7%BE%8E%E5%9B%BD%2B%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:50002#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFx1OTYzZlx1OTFjY1x1NGU5MSIsICJhZGQiOiAia2t5eC55eWRzaWkuY29tIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiZjMyZmI2MzctNjdlYi00OGJlLTlmMjktNDUyM2M0NzIwZGU3IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ5eHR3LjY1MTU2OC54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:50003#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:20001#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+vmess://eyJhZGQiOiAiNjIuMTMzLjYwLjEzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTk4ZDBhZWEtOTU0MC0xMWVlLTkxMTEtM2ZlN2MxZDM0ZDcxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92cG5qYW50aXQiLCAicG9ydCI6IDEwMDAxLCAicHMiOiAiXHU0ZmM0XHU3ZjU3XHU2NWFmIHYycmF5YS5ldS5vcmciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://4de2e68e-3ffa-46a6-82f1-002ef5baab68@us.kunlun-ppg.com:10824?security=tls&sni=alibaba-node.cn#韩国+KT电信
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNsb3VkZmxhcmUuY2Znby5jYyIsICJwb3J0IjogIjgwODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjU3OWZkNmYxLTc2MTgtNGZmZi04NjM1LTlkYmE0YTYxZGY5NiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiY2MuOTkyNjg4Lnh5eiIsICJ0bHMiOiAiIn0=
+trojan://4de2e68e-3ffa-46a6-82f1-002ef5baab68@hk.kunlun-ppg.com:10802?security=tls&sni=alibaba-node.cn#韩国+KT电信
+trojan://4de2e68e-3ffa-46a6-82f1-002ef5baab68@us.kunlun-ppg.com:10823?security=tls&sni=alibaba-node.cn#韩国+KT电信
+trojan://4fc77152e665415b9986d5b9b8f43601@118.142.31.198:443?sni=www.gpt123.one#香港+环球全域电讯
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.135:5004#%E7%BE%8E%E5%9B%BD%2B%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.91.107.37:8118#%E7%BE%8E%E5%9B%BD%2B%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInNpbmdhcG9yZS5jb20iLCAicG9ydCI6ICI4MCIsICJpZCI6ICJiMWUzMDMzOS1hNjAzLTQ3ZDEtYjMxYy0xZDBjZWI1OTk1MmUiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInNzcnN1Yi52MDA1LnNzcnN1Yi5jb20iLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:26666#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNsb3VkLmRyYWdvbnJ6bS5zYnMiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImNlMGQ1MTUxLTc3MzQtNDE4OS1iNmFlLWViNThlOWFmNTYwMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2xvdWQuZHJhZ29ucnptLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:20007#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+trojan://telegram-id-directvpn@18.134.116.43:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#美国+麻省理工学院
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#%E7%BE%8E%E5%9B%BD%2B%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:26667#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNy4xMjkuMjgiLCAicG9ydCI6ICI4MDgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjE4OTk2ZTAtNWE2ZS00ODA2LTgxMDYtNmI3YjQyZTZkMGQ2IiwgImhvc3QiOiAiZXU0Lm9wZW54YWkubGluayIsICJwYXRoIjogIi8ifQ==
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://telegram-id-directvpn@18.170.156.123:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#美国+Amazon数据中心
-trojan://027c71ac-026b-4755-9a33-26558ce6f6a2@172.105.5.158:443?security=tls&sni=ddragon.leagueoflegends.com#美国+Linode数据中心
-trojan://telegram-id-directvpn@13.37.66.21:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#美国+Amazon数据中心
-vmess://eyJhZGQiOiAidjE0LjU4MzE4Mi54eXoiLCAiYWlkIjogMCwgImhvc3QiOiAidjE0LjU4MzE4MS54eXoiLCAiaWQiOiAiOWRhMDY0MTQtOWMxZi00MWIxLWI0NmQtMjhlZmQyMmUxNGJhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDg0NDMsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:50004#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiaGV4c2VuLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJhcnRodXItZXhwZXJpZW5jZWQtaGF0ZS1tYWlkZW4udHJ5Y2xvdWRmbGFyZS5jb20iLCAiaWQiOiAiZGUwNGFkZDktNWM2OC04YmFiLTk1MGMtMDhjZDUzMjBkZjE4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmdvLXZtZXNzP2VkPTIwNDgiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1NTMxN1x1NGVhY1x1NWUwMiBcdTc1MzVcdTRmZTFcdTRlOTJcdTgwNTRcdTdmNTFcdTY1NzBcdTYzNmVcdTRlYTRcdTYzNjJcdTRlMmRcdTVmYzMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAic2NhZG4ueXlkc2lpLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwODAsICJpZCI6ICJmMzJmYjYzNy02N2ViLTQ4YmUtOWYyOS00NTIzYzQ3MjBkZTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia3J5eC42NTE1NjgueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCMHJ5NTZYMkF4ZkZnY2dJN3NIRFdE@94.131.12.58:26669#%E4%B9%8C%E5%85%8B%E5%85%B0%2Bv2raya.eu.org
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:50001#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40007?allowInsecure=1&sni=frontend.kuangbiaoyun.com#美国+宾夕法尼亚州Coudersport
-trojan://ZjzcW3LXeJ@cf.network383.online:2096?fp=chrome&host=ams-trojan-ws.carfin.tech&path=/@apt_mahdi&security=tls&sni=ams-trojan-ws.carfin.tech&type=ws#美国+CloudFlare节点
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInYxNC41ODMxODIueHl6IiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5ZGEwNjQxNC05YzFmLTQxYjEtYjQ2ZC0yOGVmZDIyZTE0YmEiLCAic25pIjogIiIsICJob3N0IjogInYxNC41ODMxODEueHl6IiwgInBhdGgiOiAiLyJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2NWIwXHU1MmEwXHU1NzYxIFZ1bHRyXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgImFkZCI6ICIyMDcuMTQ4Ljc3LjIxNSIsICJwb3J0IjogIjIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjZlMjA4MGJjLTA3YjAtNDA0Ni04YzZhLWJiNWExOGUxMmY3YyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiU0cubGlua2VkaW4uY29tIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS43NS4yNDYiLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjNDU4Njk1ZC02OTA4LTQ1YzMtOTUxMi1lMGM0NjQxODQ1NGMiLCAiaG9zdCI6ICJzYmwyLnNoYWJpamljaGFuZy5jb20iLCAicGF0aCI6ICIvIn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:21001#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40003?sni=frontend.kuangbiaoyun.com#美国+宾夕法尼亚州Coudersport
-vmess://eyJhZGQiOiAiY2YtbHQuc2hhcmVjZW50cmUub25saW5lIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODAsICJpZCI6ICJiMWUzMDMzOS1hNjAzLTQ3ZDEtYjMxYy0xZDBjZWI1OTk1MmUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3Nyc3ViLnYwMDUuc3Nyc3ViLmNvbSIsICJwYXRoIjogIi9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#%E6%B3%95%E5%9B%BD%2B%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-directvpn@18.130.156.91:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#英国+伦敦Amazon数据中心
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:26601#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
 
 ```
 
@@ -53,11 +46,11 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#%E6%B3%95%E5%9B%BD%2
 
 **v2ray订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20231213.txt
+https://clashgithub.com/wp-content/uploads/rss/20231214.txt
 
 **clash订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20231213.yml
+https://clashgithub.com/wp-content/uploads/rss/20231214.yml
 
 **更多订阅链接:**
 
