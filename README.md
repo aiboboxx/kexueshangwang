@@ -1,34 +1,32 @@
-# 「12月23日」2023年最新高速11.5M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
+# 「12月24日」2023年最新高速14.2M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
 关注本站TG频道「[免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)」，第一时间获得新鲜节点。
 
-本次更新共计50个可用节点，最高速度11.5M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
+本次更新共计50个可用节点，最高速度14.2M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
 
 ```
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9B%B4%E5%A4%9A%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%3Ahttps%3A%2F%2F560888.xyz
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIHYycmF5YS5ldS5vcmciLCAiYWRkIjogImtyMTIzLnl5ZHNpaS5jb20iLCAicG9ydCI6ICIyMjA1MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJrcjEyMy55eWRzaWkuY29tIiwgInRscyI6ICIifQ==
-trojan://telegram-id-directvpn@3.75.146.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#美国+Amazon+EC2服务器
-trojan://ba4db48d-46d7-4b53-ba03-0878ed637aa1@unlk4.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:21152?sni=ip3691376078.mobgslb.tbcache.com#美国+v2raya.eu.org
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsICJwb3J0IjogIjgwIiwgImlkIjogImIxZTMwMzM5LWE2MDMtNDdkMS1iMzFjLTFkMGNlYjU5OTUyZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAic3Nyc3ViLnYwMDQuc3Nyc3ViLmNvbSIsICJwYXRoIjogIi9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU4OTdmXHU2Y2IzXHU2YzYwXHU1ZTAyIFx1ODA1NFx1OTAxYSIsICJhZGQiOiAieWVzLmNubWpjbi5uZXQiLCAicG9ydCI6ICIxNjYyNiIsICJpZCI6ICJjMmM3NjQyMC0yNTdmLTQ5MmEtYjIwZi02NTYwZjNiZmE3OGQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImQ0ZDAyODI0M2M3MzA0N2Q5MTcxYmFjYjliMDQzOWU4Lm1vYmdzbGIudGJjYWNoZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
-trojan://telegram-id-directvpn@18.194.138.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#德国+黑森州法兰克福Amazon数据中心
-trojan://ba4db48d-46d7-4b53-ba03-0878ed637aa1@unlk5.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:25002#美国+v2raya.eu.org
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZmM0XHU3ZjU3XHU2NWFmIHYycmF5YS5ldS5vcmciLCAiYWRkIjogIjUuMTg5LjIwNy40IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjU2YmI1NGIwLTVjZmMtNGIzNS1iYzgxLTBiMzAwYTA4YjQ2YiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibTNoZGlvMS5zZXJ2ZWhhbGZsaWZlLmNvbSIsICJwYXRoIjogIi9ARk9SV0FSRFYyUkFZIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%E4%BF%84%E7%BD%97%E6%96%AF%2Bv2raya.eu.org
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download2hkt.windowsupdatea.com:443?security=tls&sni=glc-hkt2.windowsupdatea.com&type=tcp&headerType=none#香港+电讯盈科有限公司
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInVzLTAyLmppa3VhaS54eXoiLCAicG9ydCI6ICIyMDgyIiwgImlkIjogIjcwNjY2Nzc2LTRlOWYtNDM1MC1iM2YwLWFmYWZmNmE3MGRiMCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidXMtMDIuamlrdWFpLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-trojan://telegram-id-privatevpns@34.243.215.68:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#爱尔兰+都柏林Amazon数据中心
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40004#美国+v2raya.eu.org
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?security=tls#美国+v2raya.eu.org
+trojan://telegram-id-directvpn@52.33.50.238:22222?sni=trj.rollingnext.co.uk#美国+俄勒冈州波特兰Amazon数据中心
+trojan://telegram-id-privatevpns@35.181.255.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#法国+巴黎Amazon数据中心
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTRjXHU1MTRiXHU1MTcwIHYycmF5YS5ldS5vcmciLCAiYWRkIjogIjE5My4yMzguMTUzLjE0IiwgInBvcnQiOiAiODQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMTU5NjkzZTAtNTE0Ni00ODJkLTllNDYtOGM0ZjJmYzg2NWIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICJ0bHMifQ==
+trojan://telegram-id-privatevpns@18.169.219.60:22222?alpn=http/1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#美国+Amazon数据中心
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS43NS4yNDYiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzQ1ODY5NWQtNjkwOC00NWMzLTk1MTItZTBjNDY0MTg0NTRjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJzYmwyLnNoYWJpamljaGFuZy5jb20iLCAidGxzIjogIiJ9
+trojan://telegram-id-directvpn@3.78.174.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#美国+Amazon+EC2服务器
+trojan://telegram-id-directvpn@3.136.242.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#美国+Amazon+EC2服务器
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU4OTdmXHU2Y2IzXHU2YzYwXHU1ZTAyIFx1ODA1NFx1OTAxYSIsICJhZGQiOiAieWVzLmNubWpjbi5uZXQiLCAicG9ydCI6ICIxNjYxNiIsICJpZCI6ICJjMmM3NjQyMC0yNTdmLTQ5MmEtYjIwZi02NTYwZjNiZmE3OGQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImQ0ZDAyODI0M2M3MzA0N2Q5MTcxYmFjYjliMDQzOWU4Lm1vYmdzbGIudGJjYWNoZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNTdiZjNhYy1mZGExLTQ0YzMtYWE4ZS0wN2VlZDdkZGM1YjY=@service.ouluyun9803.com:50005#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+trojan://299a6171-b4ce-403a-8157-c3dad55ef3a2@95.164.69.115:17728?sni=gbs.pptv-tv.store#乌克兰+v2raya.eu.org
+vmess://eyJhZGQiOiAiY2YtbHQuc2hhcmVjZW50cmUub25saW5lIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODAsICJpZCI6ICJiMWUzMDMzOS1hNjAzLTQ3ZDEtYjMxYy0xZDBjZWI1OTk1MmUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3Nyc3ViLnYwMDQuc3Nyc3ViLmNvbSIsICJwYXRoIjogIi9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSIsICJ0bHMiOiAiIn0=
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?sni=glc-tw1.windowsupdatea.com#台湾省新北市+中华电信
+vmess://eyJhZGQiOiAiNDUuNTguMTUzLjI1IiwgInYiOiAiMiIsICJwcyI6ICJcdTgzNzdcdTUxNzAgXHU1MzE3XHU4Mzc3XHU1MTcwXHU3NzAxXHU5NjNmXHU1OWM2XHU2NWFmXHU3Mjc5XHU0ZTM5U2hhcmt0ZWNoXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgInBvcnQiOiAzMDAwMCwgImlkIjogIjQyNDJmOWUwLTZiN2UtNDI1Ny05ZTkzLTdhZDM4MDE1YzQ2YSIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3BhdGgvMTcwMjk2MTcxNjczOCIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNTdiZjNhYy1mZGExLTQ0YzMtYWE4ZS0wN2VlZDdkZGM1YjY=@service.ouluyun9803.com:20003#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%2B%E7%A7%BB%E5%8A%A8
+trojan://telegram-id-directvpn@18.171.95.197:22222?allowInsecure=0&sni=trj.rollingnext.co.uk#美国+Amazon数据中心
+trojan://telegram-id-privatevpns@15.236.197.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#美国+惠普公司
+trojan://telegram-id-directvpn@54.247.10.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#爱尔兰+v2raya.eu.org
+trojan://2dba06438ba04834875e0b77b7edbbea@220.246.88.144:443?allowInsecure=0&sni=www.gpt123.one#香港+电讯盈科有限公司
+vmess://eyJhZGQiOiAiNDUuNTguMTUzLjI1IiwgImFpZCI6IDY0LCAiaG9zdCI6ICIiLCAiaWQiOiAiNDI0MmY5ZTAtNmI3ZS00MjU3LTllOTMtN2FkMzgwMTVjNDZhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MDI5NjE3MTY3MzgiLCAicG9ydCI6IDMwMDAwLCAicHMiOiAiXHU4Mzc3XHU1MTcwIFx1NTMxN1x1ODM3N1x1NTE3MFx1NzcwMVx1OTYzZlx1NTljNlx1NjVhZlx1NzI3OVx1NGUzOVNoYXJrdGVjaFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInd3dy43NzkzNTcwNy54eXoifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%E6%84%8F%E5%A4%A7%E5%88%A9%2Bv2raya.eu.org
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1F3TlRndw==@185.231.205.80:1443#%E4%BF%84%E7%BD%97%E6%96%AF%2Bv2raya.eu.org
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIHYycmF5YS5ldS5vcmciLCAiYWRkIjogIm11cmFuLWtyLnFyZmx5Lm1lIiwgInBvcnQiOiAiMjAyNTQiLCAiaWQiOiAiMDA3YmU5YWQtOGRiNi00MTY0LWZjNDktNDk5ODliYmNiYTk2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJtdXJhbi1rci5xcmZseS5tZSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1F3TlRndw==@185.231.205.80:1443#%E4%BF%84%E7%BD%97%E6%96%AF%2Bv2raya.eu.org
-trojan://telegram-id-directvpn@44.226.23.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#美国+俄勒冈州波特兰Amazon数据中心
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTIwLjIzMy40My4zMyIsICJwb3J0IjogIjE2NjIwIiwgImlkIjogImMyYzc2NDIwLTI1N2YtNDkyYS1iMjBmLTY1NjBmM2JmYTc4ZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZDRkMDI4MjQzYzczMDQ3ZDkxNzFiYWNiOWIwNDM5ZTgubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1hkt.windowsupdatea.com:443?security=tls&sni=glc-hkt1.windowsupdatea.com&type=tcp&headerType=none#香港+电讯盈科有限公司
-trojan://ba4db48d-46d7-4b53-ba03-0878ed637aa1@UNLK1.LVWF8N-HH8E-2300-NMOO-D2E9NAOBEACN.9D8F269F96B25232-759CBB36D6548597.KAUFEN:20152?allowInsecure=0&sni=13-231-155-134.nhost.00cdn.com#美国+v2raya.eu.org
-vmess://eyJhZGQiOiAiNDYuMTgyLjEwNy4xNSIsICJ2IjogIjIiLCAicHMiOiAiXHU4Mzc3XHU1MTcwIHYycmF5YS5ldS5vcmciLCAicG9ydCI6IDMwMDAwLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzAyMjE1MjIzMzIwIiwgInRscyI6ICJ0bHMifQ==
-trojan://ba4db48d-46d7-4b53-ba03-0878ed637aa1@unlk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:21852?allowInsecure=0#美国+v2raya.eu.org
-vmess://eyJhZGQiOiAiZnJlZS5kb21haW4ucGhvdG9zIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODAsICJpZCI6ICI0NGVkNjA0My1hNzBlLTQ0Y2UtYzFmOS02NDlmNjllZmNlN2MiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZnJlZS5kb21haW4ucGhvdG9zIiwgInBhdGgiOiAiL2ZyZWUiLCAidGxzIjogIiJ9
+trojan://8wOSlN5I8uAFRe3ZjZE3AyFBaD23yYCCCX0DaSO67aT4zpc39YlpexSDRqnKxg@43.201.255.129:443?sni=octopus.koreanbbq.link#日本+v2raya.eu.org
 
 ```
 
@@ -48,11 +46,11 @@ vmess://eyJhZGQiOiAiZnJlZS5kb21haW4ucGhvdG9zIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVc
 
 **v2ray订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20231223.txt
+https://clashgithub.com/wp-content/uploads/rss/20231224.txt
 
 **clash订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20231223.yml
+https://clashgithub.com/wp-content/uploads/rss/20231224.yml
 
 **更多订阅链接:**
 
