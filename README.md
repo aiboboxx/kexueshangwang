@@ -1,27 +1,23 @@
-# 「01月19日」2023年最新高速15.0M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
+# 「01月20日」2023年最新高速14.6M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
 关注本站TG频道「[免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)」，第一时间获得新鲜节点。
 
-本次更新共计50个可用节点，最高速度15.0M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
+本次更新共计50个可用节点，最高速度14.6M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
 
 ```
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9B%B4%E5%A4%9A%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%3Ahttps%3A%2F%2F560888.xyz
-trojan://DUvWfvC7xH@104.18.213.21:2096?security=tls&sni=my.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd&type=grpc&fp=chrome&alpn=h2#美国+CloudFlare节点
-trojan://telegram-id-privatevpns@52.19.65.39:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#爱尔兰+都柏林Amazon数据中心
-trojan://telegram-id-privatevpns@15.188.12.145:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#法国+巴黎Amazon数据中心
-trojan://telegram-id-privatevpns@99.80.10.242:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#爱尔兰+v2raya.eu.org
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.134.118.156:443#%E7%BE%8E%E5%9B%BD%2B%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
-vmess://eyJhZGQiOiAiMDhkZmRlNTEtOGM1ZC00MTYwLTg3MzItMDc0NTUwN2NmZDViLmNsb3VkZmxhcmUtZ2F0ZXdheS5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWlrYXNhLmVyZW55ZWFnZXIuY2xvdWRucy5iaXoiLCAicGF0aCI6ICIvZ2x3ZWlkZi5zYnMvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-trojan://telegram-id-directvpn@35.181.122.240:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#法国+巴黎Amazon数据中心
-trojan://telegram-id-directvpn@3.121.58.194:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#德国+黑森州法兰克福AMazon数据中心
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDAzY2MzNC0xYmQ0LTQxZjgtYWI3YS02NDhmODg3MDU3YWM=@sg.sg02.763998.top:51053#%E7%BE%8E%E5%9B%BD%2Bv2raya.eu.org
+trojan://telegram-id-directvpn@3.78.74.193:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#美国+Amazon+EC2服务器
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.62.23:443?sni=lienquan.garena.vn#亚太地区+v2raya.eu.org
+trojan://telegram-id-privatevpns@18.153.228.244:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#美国+Amazon数据中心
+trojan://a78489d1-2dfb-48a4-b46c-208594e1f0dd@167.71.79.61:443?#美国+v2raya.eu.org
+trojan://telegram-id-privatevpns@35.181.179.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#法国+巴黎Amazon数据中心
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%E7%BE%8E%E5%9B%BD%2BAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://DUvWfvC7xH@104.20.219.67:2096?security=tls&sni=my1.xgfhghfjjbffjbbjbjfxjjvg01.cfd&type=grpc&fp=firefox&alpn=h2,http/1.1#美国+CloudFlare节点
+trojan://telegram-id-privatevpns@34.248.8.33:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#爱尔兰+都柏林Amazon数据中心
 trojan://2@104.18.203.232:2095?security=none&type=ws&host=hajimamadvpn-join-bede.cfz-hajimmad.site&path=/#美国+CloudFlare节点
-trojan://telegram-id-privatevpns@13.39.88.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#美国+Amazon数据中心
-trojan://telegram-id-privatevpns@18.132.74.91:22222?sni=trojan.miwan.co.uk#美国+麻省理工学院
-trojan://1@104.18.203.232:80?security=none&type=ws&host=redproxy.xyz&path=/#美国+CloudFlare节点
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443?security=tls&sni=hdfy8c1.foriran.me&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#美国+EasyDNS+Anycast节点(Cloudflare节点)
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTRjXHU1MTRiXHU1MTcwIHYycmF5YS5ldS5vcmciLCAiYWRkIjogIjk1LjE2NC42OS4yNyIsICJwb3J0IjogODAsICJpZCI6ICJjZDRhNmQwZC00YjI2LTRlZTEtOGE0Mi1jMjg3OGI1YzNiMmEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImludGVybmV0LmxpZmUuY29tLmJ5IiwgInBhdGgiOiAiL3ZtZXNzIiwgInRscyI6ICIifQ==
-trojan://telegram-id-privatevpns@3.127.92.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#德国+黑森州法兰克福Amazon数据中心
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLm9wZW54YWkubGluayIsICJwb3J0IjogIjgwODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3YjZkZGZmNC04ZjE4LTRlMjctZGU4Mi1hMzNjZmVlYmZhMDEiLCAic25pIjogIiIsICJob3N0IjogImV1NS5vcGVueGFpLmxpbmsiLCAicGF0aCI6ICIvP2VkPTIwNDgifQ==
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@188.114.99.29:443?security=tls&sni=hdfy8c1.foriran.me&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#巴西圣保罗+CloudFlare节点
+trojan://telegram-id-privatevpns@13.50.113.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#美国+Xerox
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImdsYVNjby5meC10ckFkZXIuc2hvcCIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjZGJiMDg5OS03MTEzLTRkNGUtZjg2OC0zMTMzOWM3NWFkM2MiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogInZ2djJ2YXlvMi5ldmVyeXRoaW5naXNyZXZlLnNob3AiLCAidGxzIjogIiJ9
 
 ```
 
@@ -41,11 +37,11 @@ trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@188.114.99.29:443?security=tls&sni
 
 **v2ray订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240119.txt
+https://clashgithub.com/wp-content/uploads/rss/20240120.txt
 
 **clash订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240119.yml
+https://clashgithub.com/wp-content/uploads/rss/20240120.yml
 
 **更多订阅链接:**
 
