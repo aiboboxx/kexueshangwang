@@ -1,10 +1,10 @@
-# 「03月13日」2024年最新高速15.2M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
+# 「03月14日」2024年最新高速8.8M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
 关注本站TG频道「[免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)」，第一时间获得新鲜节点。
 
-本次更新共计50个可用节点，最高速度15.2M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
+本次更新共计50个可用节点，最高速度8.8M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
 
 ```
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfcloud.xyz
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkf.kxyz.eu.org
 vmess://eyJ2IjoiMiIsInBzIjoiMDEuXHU1MTZjXHU3NmNhXHU4MjgyXHU3MGI5XHU5NjUwXHU5MDFmIiwiYWRkIjoiendlaS5iZ2thLm1lIiwicG9ydCI6IjQ0MyIsImlkIjoiZGE4OTU0YTUtOWMwMy00ZmU1LWJlNmEtZDkwZjNmMDFiODgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaDExMS1mci5reG5uLmV1Lm9yZyIsInBhdGgiOiJcL0QyNnh2ZHFVZENwdnZQVHo0UiIsInRscyI6InRscyIsInNuaSI6ImgxMTEtZnIua3hubi5ldS5vcmcifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiMDIuXHU0ZWQ4XHU4ZDM5XHU5MDFmXHU1ZWE2XHU2NmY0XHU1ZmViIiwiYWRkIjoiNzRmYW4uY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiZGE4OTU0YTUtOWMwMy00ZmU1LWJlNmEtZDkwZjNmMDFiODgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaDExMC1mci5reG5uLmV1Lm9yZyIsInBhdGgiOiJcL0QyNnh2ZHFVZENwdnZQVHo0UiIsInRscyI6InRscyIsInNuaSI6ImgxMTAtZnIua3hubi5ldS5vcmcifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiMDMuXHU1MTZjXHU3NmNhXHU4MjgyXHU3MGI5XHU0ZTBkXHU3YTMzXHU1YjlhIiwiYWRkIjoieXguenBndWxpbWFsbC5idXp6IiwicG9ydCI6IjQ0MyIsImlkIjoiZGE4OTU0YTUtOWMwMy00ZmU1LWJlNmEtZDkwZjNmMDFiODgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaDE1OC1mci5reG5uLmV1Lm9yZyIsInBhdGgiOiJcL0QyNnh2ZHFVZENwdnZQVHo0UiIsInRscyI6InRscyIsInNuaSI6ImgxNTgtZnIua3hubi5ldS5vcmcifQ==
@@ -34,11 +34,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiMTAuXHU1MTZjXHU3NmNhXHU4MjgyXHU3MGI5IiwiYWRkIjoiem02
 
 **v2ray订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240313.txt
+https://clashgithub.com/wp-content/uploads/rss/20240314.txt
 
 **clash订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240313.yml
+https://clashgithub.com/wp-content/uploads/rss/20240314.yml
 
 ## 客户端下载
 
