@@ -1,9 +1,11 @@
-# 「05月04日」2024年最新高速12.4M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
+# 「05月05日」2024年最新高速14.6M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
 关注本站TG频道「[免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)」，第一时间获得新鲜节点。
 
-本次更新共计50个可用节点，最高速度12.4M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
+本次更新共计50个可用节点，最高速度14.6M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
 
 ```
+<br />
+<b>Warning</b>:  Undefined variable $base64 in <b>/www/wwwroot/clashgithub.com/node/getnode.php</b> on line <b>42</b><br />
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%E5%B7%B2%E5%A4%B1%E6%95%88%EF%BC%8C%E8%AF%B7%E9%87%8D%E6%96%B0%E8%8E%B7%E5%8F%96
 ```
@@ -24,11 +26,11 @@ ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E8%AE%A2%E9%98%85%E9%93%BE%
 
 **v2ray订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240504.txt
+https://clashgithub.com/wp-content/uploads/rss/20240505.txt
 
 **clash订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240504.yml
+https://clashgithub.com/wp-content/uploads/rss/20240505.yml
 
 ## 客户端下载
 
