@@ -1,7 +1,7 @@
-# 「07月21日」2024年最新高速9.1M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
+# 「07月22日」2024年最新高速11.3M/S免费节点，免费公益SSR/V2ray/Shadowrocket/Clash节点/小火箭订阅链接|科学上网|免费梯子
 关注本站TG频道「[免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)」，第一时间获得新鲜节点。
 
-本次更新共计50个可用节点，最高速度9.1M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
+本次更新共计50个可用节点，最高速度11.3M/S，覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域，复制下方的v2ray/Clash节点，在客户端添加即可正常使用
 
 ```
 <br />
@@ -34,11 +34,11 @@ Stack trace:
 
 **v2ray订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240721.txt
+https://clashgithub.com/wp-content/uploads/rss/20240722.txt
 
 **clash订阅链接:**
 
-https://clashgithub.com/wp-content/uploads/rss/20240721.yml
+https://clashgithub.com/wp-content/uploads/rss/20240722.yml
 
 ## 客户端下载
 
